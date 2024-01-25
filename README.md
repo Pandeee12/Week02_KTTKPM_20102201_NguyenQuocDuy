@@ -1,29 +1,28 @@
 # Week02_KTTKPM_20102201_NguyenQuocDuy
 
 User, Product, Order 1
+![user1](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/674f0565-2c80-46b6-8adc-d59098ed0113)
 
-![User1](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/6b8178da-7ced-4b97-a881-8b1c7813e712)
+![product1](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/9bd4e0ad-d00a-4a57-8917-b4cd355d308a)
 
-![Product1](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/afc390d8-533f-43bc-a163-fafc82bb8712)
+![order1](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/7ba0c552-a867-414d-854f-445638dc78d6)
 
-![order1](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/6eb3e6cb-540b-49af-a01f-f828ad094cc1)
 
 User, Product, Order 2
 
-![User2](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/20760a4c-aa9c-4bd2-a182-900548df4da3)
+![user2](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/c7f5e832-ebb9-441e-bbd3-438f78ddcd8c)
 
-![Product2](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/d805f524-453f-42bc-9a03-56b6bb5841a6)
+![product2](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/2819c393-9fa7-408d-b093-ad2d53b44dbc)
 
-![order2](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/7c79c046-392a-4eeb-a3e4-8abdfbd05b6b)
+![order2](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/c68cde7e-20d6-4bdb-982b-8a8b5dd83033)
 
 User, Product, Order 4
 
-![user4](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/4b3229ff-026e-4053-8371-1fd7d4f35a72)
+![user4](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/cacbdffc-726b-4441-967e-206a49d55270)
 
-![product4](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/9c6c2279-5f28-4a88-bda8-ccab31428a66)
+![product4](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/3eacbcb6-0099-4efa-9e5e-f7cd3f89fc37)
 
-![order4](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/8fcabff9-ca18-4b8c-8958-e50f729d2450)
-
+![order4](https://github.com/Pandeee12/Week02_KTTKPM_20102201_NguyenQuocDuy/assets/144768405/8be60175-1358-4487-b61e-f15dcaec92bb)
 
 
 
